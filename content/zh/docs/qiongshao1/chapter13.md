@@ -297,3 +297,6 @@ aliases:
 “大王，也就剩半个小时了，要不咱们今天就这样了吧？”
 
 “爱卿，摸鱼被我抓到要扣俸禄的。”
+
+{{< button relref="./chapter12.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter14.md" >}}下一章{{< /button >}}

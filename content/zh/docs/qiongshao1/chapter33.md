@@ -339,3 +339,6 @@ aliases:
 姚心烛的目光停留在她画圈的那一段。
 
 “结局：金蟹将军沉冤得雪，真相大白。舞姬是主谋，虾兵们是帮凶。”
+
+{{< button relref="./chapter32.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter34.md" >}}下一章{{< /button >}}

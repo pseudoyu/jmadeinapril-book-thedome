@@ -215,3 +215,6 @@ aliases:
 “怎么？”
 
 “咱们上去再说。”
+
+{{< button relref="./chapter27.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter29.md" >}}下一章{{< /button >}}

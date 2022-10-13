@@ -153,3 +153,6 @@ aliases:
 “随便不行，你必须说一个名字！”
 
 神树上又有几片叶子落下，被风吹得起了几个旋儿，又停留在她们的肩膀上。
+
+{{< button relref="./chapter11.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter13.md" >}}下一章{{< /button >}}

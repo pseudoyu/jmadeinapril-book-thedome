@@ -209,3 +209,6 @@ aliases:
 “谢谢您。”他只说了这三个字。
 
 她点头：“马上要打铃上课了。快去吧，小禹。”
+
+{{< button relref="./chapter24.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter26.md" >}}下一章{{< /button >}}

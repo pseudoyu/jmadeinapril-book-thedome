@@ -203,3 +203,6 @@ aliases:
 “三男三女，刚好平衡。男女搭配干活不累！”
 
 “啊......”大家表情复杂地表示懂了，齐齐看向夏禹。后者耸耸肩：“我花了十年习惯她的脑回路，你们加油。”
+
+{{< button relref="./chapter7.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter9.md" >}}下一章{{< /button >}}

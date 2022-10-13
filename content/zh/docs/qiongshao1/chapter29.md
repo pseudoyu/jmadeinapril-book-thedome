@@ -207,3 +207,6 @@ aliases:
 六个人纷纷回头，六道视线都聚焦于一处。
 
 “我人在意志在。”崔觉语气平淡，“不必过问。”
+
+{{< button relref="./chapter28.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter30.md" >}}下一章{{< /button >}}

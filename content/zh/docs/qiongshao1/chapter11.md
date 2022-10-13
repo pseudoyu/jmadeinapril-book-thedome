@@ -161,3 +161,6 @@ aliases:
 “啊......说得对。”
 
 她脚一收，从墙那头跳了下去。
+
+{{< button relref="./chapter10-2.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter12.md" >}}下一章{{< /button >}}

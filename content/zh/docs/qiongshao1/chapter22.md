@@ -197,3 +197,6 @@ aliases:
 姜源儿摇头道：“只有等时间来解释一切了。”
 
 三人站在春末的夜里，相对无言。
+
+{{< button relref="./chapter21.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter23.md" >}}下一章{{< /button >}}

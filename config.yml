@@ -9,6 +9,7 @@ defaultContentLanguage: zh
 defaultContentLanguageInSubdir: true
 
 PygmentsCodeFences: true
+enableGitInfo: true
 
 languages:
   zh:
@@ -29,8 +30,12 @@ disablePathToLower: true
 params:
   Description: 穹顶的少年（一）丹青画卷
 
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme: "auto"
+
   # show or hide table of contents for page
-  BookShowToC: true
+  BookShowToC: false
 
   # Set bundle to render side menu
   # if not specified file structure and weights will be used
@@ -43,3 +48,8 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable.
   BookEditURL: https://github.com/pseudoyu/jmadeinapril-book-qiongshao/edit/master/content/zh/
+
+    # Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat: "January 2, 2006"

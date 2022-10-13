@@ -207,3 +207,6 @@ aliases:
 他已经从后门走掉了。
 
 姚心烛站在原地，心中五味杂陈。晚会还在继续，这个本应是其中一份子的男孩，看上去与这些热闹毫无干系。
+
+{{< button relref="./chapter15.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter17.md" >}}下一章{{< /button >}}

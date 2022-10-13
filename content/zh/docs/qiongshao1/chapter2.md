@@ -233,3 +233,6 @@ aliases:
 她一只腿跪在窗台上回头，脸上带着一丝如梦初醒的快慰：“不走寻常路嘛。”
 
 话落，她的背影便消失在夜色中。
+
+{{< button relref="./chapter1.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter3.md" >}}下一章{{< /button >}}

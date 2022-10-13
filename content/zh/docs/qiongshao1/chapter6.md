@@ -189,3 +189,6 @@ aliases:
 前面一个男生转头，咧开嘴露出八颗牙灿烂一笑，比了个大拇指：“同学好品位！”
 
 夏禹从卫衣帽子底下打量了他一眼。这六系的人还真是特征分明，显而易见啊。
+
+{{< button relref="./chapter5.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter7.md" >}}下一章{{< /button >}}

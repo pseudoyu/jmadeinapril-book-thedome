@@ -129,3 +129,6 @@ aliases:
 姚心烛做着伸展运动往后门走去，准备去外面透透气。她打开门，正好听见两个人的低语声从偏僻的角落传来，而人影却只有一个。
 
 是尚水君。
+
+{{< button relref="./chapter14.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter16.md" >}}下一章{{< /button >}}

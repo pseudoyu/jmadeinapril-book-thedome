@@ -259,3 +259,6 @@ aliases:
 姚心烛似懂非懂，九十度鞠了个躬：“谢谢您。”
 
 夏禹也微微倾身：“有缘再见。”
+
+{{< button relref="./chapter4.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter6.md" >}}下一章{{< /button >}}

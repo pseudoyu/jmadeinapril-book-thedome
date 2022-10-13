@@ -151,3 +151,6 @@ aliases:
 葛子闲看着他远去的背影，扬起的嘴角落下来。
 
 他知道夏禹并没有说实话。
+
+{{< button relref="./chapter25.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter27.md" >}}下一章{{< /button >}}

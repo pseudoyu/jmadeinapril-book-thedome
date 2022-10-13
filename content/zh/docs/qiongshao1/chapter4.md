@@ -259,3 +259,6 @@ aliases:
 姚心烛拉了他一把：“别在这儿看了，我们去船上看不是更好嘛。”她说着跳下了船，“毛老师，我们可不可以去甲板上？”
 
 对方做了一个请的手势：“你领路。”
+
+{{< button relref="./chapter3.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter5.md" >}}下一章{{< /button >}}

@@ -175,3 +175,6 @@ aliases:
 “下课。”
 
 铃声响起的同时，宇文进酒的总结正好讲到最后一个字。学生们四散而去，夏禹在人群中穿梭，喊住了鱼禾：“老师，等一下！”
+
+{{< button relref="./chapter19.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter21.md" >}}下一章{{< /button >}}

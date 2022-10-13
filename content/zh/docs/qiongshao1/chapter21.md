@@ -193,3 +193,6 @@ aliases:
 “多谢您解答。我和您一起把教具送回武器陈列馆吧。”
 
 “那就麻烦你啦。”
+
+{{< button relref="./chapter20.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter22.md" >}}下一章{{< /button >}}

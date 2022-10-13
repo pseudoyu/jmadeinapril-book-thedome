@@ -253,3 +253,6 @@ aliases:
 姚心烛回头问：“荣荣你不去了吗？”
 
 “我不去喽，你们跟着校长去吧。”
+
+{{< button relref="./chapter29.md" >}}上一章{{< /button >}}
+{{< button relref="./chapter31.md" >}}下一章{{< /button >}}
