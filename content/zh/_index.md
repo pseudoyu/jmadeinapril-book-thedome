@@ -53,4 +53,4 @@ type: docs
 
 > 三月二十，欢迎入学。”
 
-[📖 在线阅读地址](https://thedoom.jmadeinapril.com)
+[📖 在线阅读地址](https://thedome.jmadeinapril.com)

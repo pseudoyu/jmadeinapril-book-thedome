@@ -1,6 +1,6 @@
 # hugo server --themesDir ...
 
-baseURL: https://thedoom.jmadeinapril.com
+baseURL: https://thedome.jmadeinapril.com
 title: 穹顶的少年
 theme: hugo-book
 
