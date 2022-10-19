@@ -67,7 +67,8 @@
 {{ define "comments" }}
   {{ if and .Content (default true (default .Site.Params.BookComments .Params.BookComments)) }}
   <div class="book-comments">
-    {{- partial "docs/comments" . -}}
+    <!-- {{- partial "docs/comments" . -}} -->
+    {{ partial "welcomments/comments" (dict "context" . "websiteId" "JD5P5NxAuKKD3Y1M8weMk1zVq" ) }}
   </div>
   {{ end }}
 {{ end }}
