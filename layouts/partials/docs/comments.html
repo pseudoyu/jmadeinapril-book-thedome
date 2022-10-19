@@ -1,2 +1,14 @@
 <!-- This partial can be replaced to support other commenting engines -->
-{{ template "_internal/disqus.html" . }}
+<!-- {{ template "_internal/disqus.html" . }} -->
+
+<div id="cusdis_thread" 
+  data-host="https://comments.jmadeinapril.com"
+  data-app-id="981622ec-5f26-488e-a593-9bfae2759252"
+  data-page-id="{{ .File.UniqueID }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
+>
+</div>
+
+<script defer src="https://comments.jmadeinapril.com/js/widget/lang/zh-cn.js"></script>
+<script async defer src="https://comments.jmadeinapril.com/js/cusdis.es.js"></script>
